@@ -77,6 +77,10 @@ cloud provider and run both code cells; keep its dataset attached.
 Generated notebooks support Kaggle and Colab, but a live combined run on both
 providers remains to be verified. See [cloud guide](docs/CLOUD-LEARNING.md).
 
+## Use AVC exports with Codex
+
+Give [Watch](https://github.com/Enerbonn/watch) the recording's SRT, timestamped PDF parts, and `SOURCES.md`. Watch maps the recording and reopens the relevant cues and frames for detailed follow-up questions. For guided study or a study reviewer, use [review(er)](https://github.com/Enerbonn/review-er).
+
 ## Credits
 
 Visual engine derived from [TransVision](https://github.com/Enerbonn/TransVision),
